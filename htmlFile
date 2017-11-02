@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+	<head>
+		<title>Creative Name</title>
+		<script src="static/JS/prime.js"></script>
+		<script src="static/JS/sorted.js"></script>
+	</head>
+	<body>
+		<h1>Hello user this is another facinating page</h1>
+		<p>On this page we are going to do the challenges! Very Nice!</p>
+		<script src="static/JS/prime.js"></script>
+		<script src="static/JS/sorted.js"></script>
+	</body>
